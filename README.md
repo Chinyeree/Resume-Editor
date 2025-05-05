@@ -1,7 +1,3 @@
-# Resume Editor
-
-![Resume Editor Screenshot](https://via.placeholder.com/800x400?text=Resume+Editor+Screenshot)
-
 ## Overview
 
 Resume Editor is an AI-powered tool that helps users create professional resumes in minutes. It uses AI to generate tailored resume content based on the user's job title, experience, and skills.
