@@ -1,6 +1,6 @@
 ## Overview
 
-Resume Editor is a web app that helps users create professional resumes in minutes. It uses AI to generate tailored resume content based on the user's job title, experience, and skills.
+Resume Editor is a web app that helps users create professional resumes in minutes.
 
 Built with vanilla HTML, CSS, and JavaScript, this project demonstrates front-end development skills without relying on frameworks.
 
