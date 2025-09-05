@@ -6,7 +6,7 @@ Built with vanilla HTML, CSS, and JavaScript, this project demonstrates front-en
 
 ## Features
 
-- **AI-Powered Content Generation:** Provides professionally written content tailored to your job experience
+- **Content Generation:** Provides professionally written content tailored to your job experience
 - **Real-time Preview:** See how your resume will look as you type
 - **Dark/Light Theme:** Choose your preferred interface mode
 - **PDF Export:** Generate and download your resume as a PDF
@@ -18,7 +18,7 @@ Built with vanilla HTML, CSS, and JavaScript, this project demonstrates front-en
 ## How It Works
 
 1. **User Input:** Enter your personal information, job title, experience, and skills
-2. **AI Processing:** The AI analyzes your inputs to generate tailored resume content
+2. **Processing:** It analyzes your inputs to generate tailored resume content
 3. **Live Preview:** Review and edit the generated content in real-time
 4. **Export Options:** Download as PDF or print directly from the browser
 
